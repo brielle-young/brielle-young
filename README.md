@@ -30,7 +30,7 @@ August 2024 - Present
 ## 🎉 Fun Facts
 - I enjoy painting landscapes in my free time.
 - Currently learning MATLAB to enhance my expertise.
-- I'm an avid mystery reader and problem-solver
+- I'm an avid mystery reader and problem-solver!
 
 ## 📫 Let's Connect!
 I welcome opportunities to collaborate or discuss innovative ideas. Feel free to reach out:
