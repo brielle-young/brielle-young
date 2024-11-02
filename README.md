@@ -1,7 +1,5 @@
 # 🌟 Welcome to My GitHub!
 
-![Banner Image](https://brielle-young.github.io/profile/assets/profile.jpg)
-
 ## 👩‍💻 About Me
 Hello! I’m Brielle Young, a dedicated Information Science and Statistics student at Cornell University. My passion lies at the intersection of data science, machine learning, and biology. I aim to leverage technology to create proactive solutions to global challenges. 
 
