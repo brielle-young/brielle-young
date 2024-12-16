@@ -5,7 +5,7 @@ Hello! I’m Brielle Young, a dedicated Information Science and Statistics stude
 
 I've had the opportunity to immerse myself in diverse projects - from building machine learning models to predict bird species encounter rates, to working on a meta-dataset of greenhouse gas emissions. I'm driven by the potential of data to make an impact, particularly in areas like computational biology, biostatistics, and machine learning.
 
-I'm constantly looking for ways to grow and apply my knowledge to real-world challenges. Whether through academic research, industry applications, or personal projects, I'm excited to continue pursuing data science and machine learning solutions to drive positive change.
+I'm constantly looking for ways to grow and apply my knowledge to real-world challenges. Whether through academic research, industry applications, or personal projects, I'm excited to continue pursuing data science and machine learning solutions to drive positive change. I can be contacted at bgy5@cornell.edu. 
 
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript, R
