@@ -13,7 +13,7 @@ I'm constantly looking for ways to grow and apply my knowledge to real-world cha
 - **Tools:** Git
 - **Areas of Expertise:** Data Analysis, Machine Learning, Deep Learning
 
-# Mila Machine Learning Challenge Project (Break Through Tech AI Program):
+### Mila Machine Learning Challenge Project (Break Through Tech AI Program):
 Check out my team's project repository for the real-world ML project we worked on for Mila for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [https://github.com/brielle-young/bird-species-distribution-modeling-with-location-information/blob/main/README.md]
 
 ## 📚 Featured Articles on Aggregate
