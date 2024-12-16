@@ -40,7 +40,6 @@ I welcome opportunities to collaborate or discuss innovative ideas. Feel free to
 - [LinkedIn](https://www.linkedin.com/in/brielleyoung/)
 - [Personal Website](https://brielle-young.github.io/profile/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brielle-young&show_icons=true&theme=default_repocard)
 
 
 
